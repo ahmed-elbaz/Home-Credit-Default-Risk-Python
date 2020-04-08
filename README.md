@@ -14,5 +14,5 @@ While Home Credit is currently using various statistical and machine learning me
 
 The repository includes
 
-Home Credit Default Risk.ppt which identify the approach made, EDA and findings.
+Home Credit Default Risk.ppt which identify the approach made, EDA and findings. 
 Home_Credit notebook which is the python code for this project.
